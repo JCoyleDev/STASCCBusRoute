@@ -9,6 +9,8 @@ This project is a work in progress. The goal of the project is to show the realt
 -Realtime location tracker  
 -Other available and viewable bus routes apart from the SCC route  
   
+Copyright 2022  
+  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
