@@ -1,4 +1,4 @@
-# STASCCBusRoute
+# Spokane Transit Authority SCC Bus Route
 This project is a work in progress. The goal of the project is to show the realtime bus location on the SCC bus route in Spokane, WA. At the moment only the route and stop markers are showing on the map.
 
 # How To Run:
